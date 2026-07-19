@@ -163,7 +163,7 @@ Example:
 - Face Recognition
 ## Proteus image
 <img width="1536" height="1024" alt="Proteus_image" src="https://github.com/user-attachments/assets/f6ba3afb-2b73-47e3-ad0e-96c0904fe8df" />
-## Hardware Image
+# Hardware Image
 <img width="1600" height="1200" alt="Hardware_photo" src="https://github.com/user-attachments/assets/45b4da02-b12d-4a1b-9b3f-4af43f6deef8" />
 
 
