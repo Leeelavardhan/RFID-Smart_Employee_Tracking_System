@@ -161,6 +161,9 @@ Example:
 - Mobile Application
 - Fingerprint + RFID Authentication
 - Face Recognition
+## Block diagram
+<img width="1600" height="1231" alt="WhatsApp Image 2026-07-19 at 11 25 36 PM" src="https://github.com/user-attachments/assets/d0be7e80-1c71-49b6-ac63-2ef1a8d91af0" />
+
 ## Proteus image
 <img width="1536" height="1024" alt="Proteus_image" src="https://github.com/user-attachments/assets/f6ba3afb-2b73-47e3-ad0e-96c0904fe8df" />
 Hardware Image
