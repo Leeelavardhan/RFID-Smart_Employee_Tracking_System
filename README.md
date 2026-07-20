@@ -89,35 +89,8 @@ ATTENDIFY-RFID
 
 ## 🔄 System Workflow
 
-```text
-RFID Card
-    │
-    ▼
-RFID Reader (UART1)
-    │
-    ▼
-LPC2148 ARM7
-    │
-    ├── RTC
-    ├── EEPROM
-    ├── LCD
-    ├── Keypad
-    │
-    ▼
-UART0
-    │
-    ▼
-Linux Application
-    │
-    ▼
-CSV Employee Database
-    │
-    ▼
-Response to LPC2148
-    │
-    ▼
-LCD Display
-```
+<img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/82e26a0b-e26d-4db5-a2bf-9690cd5fafc9" />
+
 
 ---
 
