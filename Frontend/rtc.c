@@ -1,8 +1,8 @@
 #include <LPC21xx.h>
 #include "rtc_defines.h"
 #include "rtc_functions.h"
-#include "gen_lcd_defines.h"
-#include "gen_lcd_functions.h"
+#include "lcd_defines.h"
+#include "lcd_functions.h"
 #include "delay.h"
 
 // Weekday names for reference (Sunday to Saturday)
