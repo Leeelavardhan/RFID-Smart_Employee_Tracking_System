@@ -1,7 +1,7 @@
 #include <LPC21xx.h>
 #include "defines.h"
-#include "gen_uart_defines.h"
-#include "gen_uart_functions.h"
+#include "uart0_defines.h"
+#include "uart0_functions.h"
 
 unsigned char UART0_BYTE;
 unsigned char UART0_Fired = 0;
