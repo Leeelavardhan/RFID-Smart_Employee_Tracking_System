@@ -7,7 +7,7 @@ unsigned char UART0_BYTE;
 unsigned char UART0_Fired = 0;
 
 void UART0_ISR(void) __irq{
-  // Check if this is RDA interrupt – optional
+  // Check if this is RDA interrupt â€“ optional
   if(((U0IIR >> 2) & 1)){   			// Receive Data Available
 		if(U0LSR & (1 << 0)){       // RDR set -> data ready
 			UART0_BYTE = U0RBR;  			// read exactly one byte
