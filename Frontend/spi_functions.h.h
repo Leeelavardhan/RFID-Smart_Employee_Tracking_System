@@ -1,0 +1,10 @@
+void InitializeSPI(void);
+void Transmit_char_SPI(char data);
+void Transmit_string_SPI(char *ptr);
+void ChipErase(void);
+void PageErase(unsigned short int address);
+void Receive_string_SPI(char *ptr, int bytes);
+void Write_enable_SPI(void);
+void Write_disable_SPI(void);
+void Write_string_to_EEPROM(char *str, short int address);
+void Receive_string_from_EEPROM(char *str, int bytes, short int address);
