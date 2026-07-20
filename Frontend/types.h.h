@@ -1,0 +1,11 @@
+typedef int i32;
+typedef unsigned int ui32;
+typedef long int i64;
+typedef unsigned long int ui64;
+typedef short int i16;
+typedef unsigned short int ui16;
+typedef char c8;
+typedef unsigned char uc8;
+typedef float f32;
+typedef double d64;
+typedef const char cc8;
