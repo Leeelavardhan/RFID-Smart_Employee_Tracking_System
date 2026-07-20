@@ -64,24 +64,5 @@ int main(){
 				Transmit_string_UART0("[CHECK ALL IN_OUT FIELDS}");
 			}
 		
-		//UART0 Interrupt testing code
-		/*if(UART0_Fired){
-			UART0_Fired = 0;
-			COMMAND(CLEAR_LCD);
-			Receive_string_UART0(UART0_BUFFER, 10);
-			DATA(UART0_BUFFER);
-			delay_ms(500);
-			COMMAND(CLEAR_LCD);
-		}*/
-		
-		//UART1 Interrupt testing code
-		/*if(UART1_Fired){
-			UART1_Fired = 0;
-			COMMAND(CLEAR_LCD);
-			ExtractRFID(UART1_BUFFER);
-			DATA(UART1_BUFFER);
-			delay_ms(500);	      
-			COMMAND(CLEAR_LCD);
-		}*/
 	}
 }
