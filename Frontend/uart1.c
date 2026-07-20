@@ -1,5 +1,5 @@
-#include "gen_uart1_defines.h"
-#include "gen_uart1_functions.h"
+#include "uart1_defines.h"
+#include "uart1_functions.h"
 #include "defines.h"
 #include "types.h"
 
